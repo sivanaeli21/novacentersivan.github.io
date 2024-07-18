@@ -1,0 +1,202 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "Laptop CORE I7",
+        "imagen": "./img/laptop/lap1.webp",
+        "categoria": {
+            "nombre": "Laptop-NOVACENTER",
+            "id": "laptop"
+        },
+        "precio": 1500 
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Laptop CORE I3",
+        "imagen": "./img/laptop/lap2.webp",
+        "categoria": {
+            "nombre": "Laptop-NOVACENTER",
+            "id": "laptop"
+        },
+        "precio": 2400
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Laptop CORE I5",
+        "imagen": "./img/laptop/lap3.webp",
+        "categoria": {
+            "nombre": "Laptop-NOVACENTER",
+            "id": "laptop"
+        },
+        "precio": 3400
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Laptop CORE I7",
+        "imagen": "./img/laptop/lap4.webp",
+        "categoria": {
+            "nombre": "Laptop-NOVACENTER",
+            "id": "laptop"
+        },
+        "precio": 1300
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "Audifono SAMSUMG",
+        "imagen": "./img/audifono/audi1.avif",
+        "categoria": {
+            "nombre": "Audífonos-NOVACENTER",
+            "id": "audifono"
+        },
+        "precio": 1220
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "Audifono SAMSUMG",
+        "imagen": "./img/audifono/audi2.avif",
+        "categoria": {
+            "nombre": "Audífonos-NOVACENTER",
+            "id": "audifono"
+        },
+        "precio": 300
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Audifono Sonic",
+        "imagen": "./img/audifono/audi3.avif",
+        "categoria": {
+            "nombre": "Audífonos-NOVACENTER",
+            "id": "audifono"
+        },
+        "precio": 200
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "Audifono Sonic V5",
+        "imagen": "./img/audifono/audi4.avif",
+        "categoria": {
+            "nombre": "Audífonos-NOVACENTER",
+            "id": "audifono"
+        },
+        "precio": 340
+    },
+    {
+        "id": "camiseta-04",
+        "titulo": "SILLA Gammer",
+        "imagen": "./img/sillagamer/si1.avif",
+        "categoria": {
+            "nombre": "Sillas Gamer-NOVACENTER",
+            "id": "sillas"
+        },
+        "precio": 1040
+    },
+    {
+        "id": "camiseta-05",
+        "titulo": "SILLA Gammer",
+        "imagen": "./img/sillagamer/si2.avif",
+        "categoria": {
+            "nombre": "Sillas Gamer-NOVACENTER",
+            "id": "sillas"
+        },
+        "precio": 1500
+    },
+    {
+        "id": "camiseta-06",
+        "titulo": "SILLA Gammer V6",
+        "imagen": "./img/sillagamer/si3.avif",
+        "categoria": {
+            "nombre": "Sillas Gamer-NOVACENTER",
+            "id": "sillas"
+        },
+        "precio": 2300
+    },
+    {
+        "id": "camiseta-07",
+        "titulo": "SILLA Gammer V8",
+        "imagen": "./img/sillagamer/si4.avif",
+        "categoria": {
+            "nombre": "Sillas Gamer-NOVACENTER",
+            "id": "sillas"
+        },
+        "precio": 1300
+    },
+    {
+        "id": "camiseta-08",
+        "titulo": "TABLET LENOVO V2",
+        "imagen": "./img/tablet/ta1.avif",
+        "categoria": {
+            "nombre": "Tablets-NOVACENTER",
+            "id": "tablet"
+        },
+        "precio": 2400
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "Lenov CORE I5",
+        "imagen": "./img/tablet/ta2.avif",
+        "categoria": {
+            "nombre": "Tablets-NOVACENTER",
+            "id": "tablet"
+        },
+        "precio": 3400
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "TABLET LENOVO V8",
+        "imagen": "./img/tablet/ta3.avif",
+        "categoria": {
+            "nombre": "Tablets-NOVACENTER",
+            "id": "tablet"
+        },
+        "precio": 8900
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "TABLET LENOVO V7",
+        "imagen": "./img/tablet/ta4.avif",
+        "categoria": {
+            "nombre": "Tablets-NOVACENTER",
+            "id": "tablet"
+        },
+        "precio": 1200
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "IPHONE V5",
+        "imagen": "./img/celular/ce1.avif",
+        "categoria": {
+            "nombre": "Teléfono(IPHONE)-NOVACENTER",
+            "id": "pantalones"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "IPHONE V13",
+        "imagen": "./img/celular/ce2.avif",
+        "categoria": {
+            "nombre": "Teléfono(IPHONE)-NOVACENTER",
+            "id": "pantalones"
+        },
+        "precio": 3400
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "IPHONE V15",
+        "imagen": "./img/celular/ce3.avif",
+        "categoria": {
+            "nombre": "Teléfono(IPHONE)-NOVACENTER",
+            "id": "pantalones"
+        },
+        "precio": 3800
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "IPHONE V13",
+        "imagen": "./img/celular/ce4.avif",
+        "categoria": {
+            "nombre": "Teléfono(IPHONE)-NOVACENTER",
+            "id": "pantalones"
+        },
+        "precio": 4500
+    }
+]
